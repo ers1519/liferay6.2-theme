@@ -358,7 +358,7 @@ hr, .separator {
 /* ---------- Footer ---------- */
 
 #footer {
-	text-align: right;
+	text-align: left;
 }
 
 /* ---------- Site breadcrumbs ---------- */
